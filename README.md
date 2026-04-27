@@ -90,7 +90,7 @@ Accessibility-first development to ensure inclusivity across different user need
 Practical healthcare-oriented features aimed at real-world student support scenarios
 Lightweight and scalable design suitable for future expansion into mobile or web platforms
 
-Architecture Focus:
+**Architecture Focus:**
 Designed with a modular structure in mind, separating user interface, support logic, and data handling to allow future expansion into more advanced features such as user tracking, AI-assisted recommendations, and integration with external health resources.
 ---
 
