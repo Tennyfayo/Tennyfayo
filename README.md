@@ -10,7 +10,7 @@
 
 I am a software developer focused on building scalable, modular, and system-driven applications.
 
-My approach to software development goes beyond simple scripting — I focus on designing structured systems that can grow, adapt, and scale over time.
+My approach to software development goes beyond simple scripting — I focus on designing structured systems that are maintainable, extensible, and scalable over time.
 
 I am currently building projects in:
 
@@ -21,10 +21,10 @@ I am currently building projects in:
 
 ## 🧠 What I Focus On
 
-* System architecture and modular design
-* Scalable software development using Python
+* System architecture and modular software design
+* Scalable application development using Python
 * Game systems and simulation mechanics
-* Applying engineering principles to real-world problems
+* Applying software engineering principles to real-world problems
 
 ---
 
@@ -48,7 +48,7 @@ I am currently building projects in:
 * 2D Game Development concepts
 * Software Design Patterns (clean architecture, reusable systems)
 * API Development fundamentals
-* Basic Database design (for persistent systems)
+* Database design (for persistent systems)
 
 ---
 
@@ -57,7 +57,7 @@ I am currently building projects in:
 * 3D Game Development fundamentals
 * AI/NPC behavior systems
 * Cloud deployment for applications
-* Full-stack development basics
+* Full-stack development fundamentals
 
 ---
 
@@ -75,38 +75,39 @@ A modular Python-based survival game engine designed with scalability as the cor
 * Event-driven design for future expansion
 
 **Architecture Focus:**
-Built using modular system separation to allow future expansion into 2D and 3D game environments.
+Built using a modular system structure to support long-term scalability and future expansion into 2D and 3D game environments.
 
 ---
 
-📱 Mental Health Assistive Application
+### 📱 Mental Health Assistive Application
 
 A software system designed to improve accessibility and support for student mental health through simple, user-centered digital tools.
 
-Core Focus Areas:
+**Core Focus Areas:**
 
-User-centered interface design focused on simplicity and ease of use
-Accessibility-first development to ensure inclusivity across different user needs
-Practical healthcare-oriented features aimed at real-world student support scenarios
-Lightweight and scalable design suitable for future expansion into mobile or web platforms
+* User-centered interface design focused on simplicity and usability
+* Accessibility-first development for inclusive user experience
+* Practical healthcare-oriented features for student support scenarios
+* Lightweight and scalable design for future mobile or web expansion
 
 **Architecture Focus:**
-Designed with a modular structure in mind, separating user interface, support logic, and data handling to allow future expansion into more advanced features such as user tracking, AI-assisted recommendations, and integration with external health resources.
+Designed with a modular structure separating interface, logic, and data layers to allow future expansion into advanced features such as user tracking, AI-assisted recommendations, and integration with external health systems.
+
 ---
 
 ## 📈 Current Goals
 
 * Strengthen software engineering fundamentals
-* Build production-level systems, not just scripts
-* Develop scalable game engine architecture
-* Expand into simulation-based software systems
-* Contribute to meaningful tech in healthcare
+* Build production-level, scalable systems
+* Develop game engine architecture skills
+* Expand into simulation-based software development
+* Contribute to meaningful technology in healthcare
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/osomo-oluwatenifayo-75153917a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE5SyimcVTiuimzbqJPpDiA%3D%3D
-* Email: osomotenifayo45@gmail.com or Osomooluwatenifayo45@gmail.com
+* LinkedIn: https://www.linkedin.com/in/osomo-oluwatenifayo-75153917a
+* Email: [osomotenifayo45@gmail.com](mailto:osomotenifayo45@gmail.com) or osomooluwatenifayo45@gmail.com
 
 ---
