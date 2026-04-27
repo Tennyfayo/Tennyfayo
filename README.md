@@ -79,18 +79,19 @@ Built using modular system separation to allow future expansion into 2D and 3D g
 
 ---
 
-### 📱 Mental Health Assistive Application
+📱 Mental Health Assistive Application
 
-A software solution designed to support mental health accessibility for students.
+A software system designed to improve accessibility and support for student mental health through simple, user-centered digital tools.
 
-**Focus Areas:**
+Core Focus Areas:
 
-* User-friendly design
-* Accessibility and usability
-* Real-world healthcare application
+User-centered interface design focused on simplicity and ease of use
+Accessibility-first development to ensure inclusivity across different user needs
+Practical healthcare-oriented features aimed at real-world student support scenarios
+Lightweight and scalable design suitable for future expansion into mobile or web platforms
 
- Architecture Focus:  
-
+Architecture Focus:
+Designed with a modular structure in mind, separating user interface, support logic, and data handling to allow future expansion into more advanced features such as user tracking, AI-assisted recommendations, and integration with external health resources.
 ---
 
 ## 📈 Current Goals
