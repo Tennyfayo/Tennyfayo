@@ -64,7 +64,7 @@ A project focused on improving student mental health through accessible digital 
 
 ## 📫 Contact
 
-* LinkedIn: (add your link)
-* Email: (optional)
+* LinkedIn: (https://www.linkedin.com/in/osomo-oluwatenifayo-75153917a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE5SyimcVTiuimzbqJPpDiA%3D%3D)
+* Email: Osomotenifayo45@gmail.com
 
 ---
