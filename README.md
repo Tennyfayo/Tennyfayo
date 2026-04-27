@@ -1,88 +1,111 @@
-# Hi, I'm Tennyfayo (Osomo Oluwatenifayo Elizabeth) 👋
+# Tennyfayo (Osomo Oluwatenifayo Elizabeth) 👋
 
 💻 Python Developer | Game Systems Developer | HealthTech Enthusiast
-🎓 Computer Science Graduate (Redeemer’s University, Second Class Upper)
-
+🎓 Computer Science Graduate (Second Class Upper, Redeemer’s University)
+📍 Nigeria
 
 ---
 
 ## 🚀 About Me
 
-I build structured, scalable software systems with a focus on game development and healthcare technology.
+I am a software developer focused on building scalable, modular, and system-driven applications.
 
-I am currently developing:
+My approach to software development goes beyond simple scripting — I focus on designing structured systems that can grow, adapt, and scale over time.
 
-* A **survival-to-civilization game engine** designed for long-term scalability (text → 2D → 3D)
-* A **mental health assistive application** focused on accessibility and real-world impact
+I am currently building projects in:
 
-My goal is to create systems that are not only functional but extensible and production-ready.
+* Game engine development (survival-to-civilization simulation systems)
+* Health technology solutions aimed at improving accessibility and user experience
+
+---
+
+## 🧠 What I Focus On
+
+* System architecture and modular design
+* Scalable software development using Python
+* Game systems and simulation mechanics
+* Applying engineering principles to real-world problems
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Python, Html, Css, 
-* **Core Skills:** OOP, System Design, Problem Solving
-* **Tools:** Git, GitHub
+### 💻 Core Skills
+
+* Python (Object-Oriented Programming)
+* System Design (modular architecture thinking)
+* Game Systems Development (basic engine design concepts)
+* Problem Solving & Algorithmic Thinking
+* Git & GitHub version control
 
 ---
-## Currently Learning
-* **Languages:** Javascript, React, C++, C
-* **Tools:** Unity Framework, Essential skills for a developer include programming proficiency (Python, Java, JS), data structure mastery, and problem-solving, along with soft skills like teamwork, communication, and continuous learning. Key abilities include AI understanding, version control (Git), database management (SQL), and adapting to agile workflows, security protocols, and tight deadlines. 
 
-Key Technical Skills (Hard Skills)
-Programming Languages: Proficiency in languages such as Python, Java, C#, C++, JavaScript, and PHP.
-Data Structures & Algorithms: Understanding how to store, organize, and process data efficiently.
-Version Control: Familiarity with Git and GitHub for collaborative coding.
-Database & SQL: Ability to manage and retrieve data using SQL and other database technologies.
-Cloud & Infrastructure: Knowledge of infrastructure as code (IaC) and cloud platforms.
-AI/Machine Learning: Understanding how to integrate artificial intelligence into applications.
-Testing & Debugging: Ensuring software security and code correctness. 
+### 📚 Currently Learning
 
-Essential Soft Skills
-Problem-Solving: Applying logical and critical thinking to resolve complex technical challenges.
-Communication & Collaboration: Working effectively with team members and communicating technical concepts to non-technical stakeholders.
-Continuous Learning: Adapting to new technologies and industries rapidly.
-Time Management & Organization: Prioritizing tasks and working effectively under pressure.
-Attention to Detail: Ensuring accuracy and identifying potential errors in code. 
+* Advanced Software Engineering Principles
+* Data Structures & Algorithms (performance optimization)
+* Game Engine Architecture (scalable simulation systems)
+* 2D Game Development concepts
+* Software Design Patterns (clean architecture, reusable systems)
+* API Development fundamentals
+* Basic Database design (for persistent systems)
 
-Additional Crucial Abilities
-Customer Focus/Domain Knowledge: Understanding user needs and business context.
-Analytical Mindset: Breaking down complex problems into manageable components.
-Creativity & Innovation: Developing novel solutions and elegant designs. 
+---
 
-These skills enable developers to build, maintain, and innovate software solutions, ensuring they are functional, secure, and user-focused. 
+### 🎯 Future Learning Goals
 
+* 3D Game Development fundamentals
+* AI/NPC behavior systems
+* Cloud deployment for applications
+* Full-stack development basics
 
-## 📌 Featured Work
+---
+
+## 📌 Featured Projects
 
 ### 🧭 Survival Game Engine
 
-A modular Python-based game system focused on survival mechanics and scalability.
+A modular Python-based survival game engine designed with scalability as the core principle.
 
-* Structured architecture (systems-based design)
-* Core mechanics: crafting, survival, exploration
-* Designed for future expansion into 2D and 3D environments
+**Key Systems:**
 
----
+* Player state management (health, hunger, stamina)
+* Crafting and inventory system
+* World interaction and survival mechanics
+* Event-driven design for future expansion
 
-### 📱 Mental Health Assistive App
-
-A software solution aimed at improving student mental health support systems.
-
-* Focus on accessibility and usability
-* Built with real-world application in mind
+**Architecture Focus:**
+Built using modular system separation to allow future expansion into 2D and 3D game environments.
 
 ---
 
-## 📈 Current Focus
+### 📱 Mental Health Assistive Application
 
-* Writing cleaner, scalable code
-* Building production-level projects
-* Expanding into game systems and health tech
+A software solution designed to support mental health accessibility for students.
+
+**Focus Areas:**
+
+* User-friendly design
+* Accessibility and usability
+* Real-world healthcare application
+
+ Architecture Focus:  
+
+---
+
+## 📈 Current Goals
+
+* Strengthen software engineering fundamentals
+* Build production-level systems, not just scripts
+* Develop scalable game engine architecture
+* Expand into simulation-based software systems
+* Contribute to meaningful tech in healthcare
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: (add link)
+* LinkedIn: https://www.linkedin.com/in/osomo-oluwatenifayo-75153917a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE5SyimcVTiuimzbqJPpDiA%3D%3D
+* Email: osomotenifayo45@gmail.com or Osomooluwatenifayo45@gmail.com
+
+---
